@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "Organization": "Farmula",
+            "Payment_Mode": "Flutterwave-Mpesa",
+            "Amount": 50,
+            "Total_Credits" : 1000,
+            "Used Credits" : 600,
+            "Payments Date":"1/8/2021"
+        },
+        {
+            "Organization": "Quickbus",
+            "Payment_Mode": "Flutterwave-Card",
+            "Amount": 250,
+            "Total_Credits" : 10000,
+            "Used Credits" : 5000,
+            "Payments Date":"5/8/2021"
+        },
+        {
+            "Organization": "Edache",
+            "Payment_Mode": "Flutterwave-Card",
+            "Amount": 50,
+            "Total_Credits" : 1000,
+            "Used Credits" : 800,
+            "Payments Date":"10/8/2021"
+        }
+    ]
+}
