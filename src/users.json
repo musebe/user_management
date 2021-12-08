@@ -6,7 +6,7 @@
         "complete": 2,
         "incomplete": 1
       },
-      "last visit": "07/06/2021",
+      "last visit": "07/12/2021",
       "No of visits": 19,
       "live": true,
       "payments": {
@@ -22,7 +22,7 @@
         "complete": 1,
         "incomplete": 1
       },
-      "last visit": "30/05/2021",
+      "last visit": "30/11/2021",
       "No of visits": 22,
       "live": true,
       "payments": {
@@ -54,7 +54,7 @@
         "complete": 1,
         "incomplete": 1
       },
-      "last visit": "29/05/2021",
+      "last visit": "29/11/2021",
       "No of visits": 4,
       "live": false,
       "payments": {
@@ -86,7 +86,7 @@
         "complete": 1,
         "incomplete": 2
       },
-      "last visit": "27/04/2021",
+      "last visit": "27/11/2021",
       "No of visits": 14,
       "live": false,
       "payments": {
@@ -118,7 +118,7 @@
         "complete": 1,
         "incomplete": 1
       },
-      "last visit": "25/03/2021",
+      "last visit": "25/11/2021",
       "No of visits": 16,
       "live": false,
       "payments": {
@@ -134,7 +134,7 @@
         "complete": 1,
         "incomplete": 2
       },
-      "last visit": "6/06/2021",
+      "last visit": "6/11/2021",
       "No of visits": 2,
       "live": true,
       "payments": {
@@ -182,7 +182,7 @@
         "complete": 0,
         "incomplete": 1
       },
-      "last visit": "13/05/2021",
+      "last visit": "13/10/2021",
       "No of visits": 7,
       "live": false,
       "payments": {
@@ -230,7 +230,7 @@
         "complete": 1,
         "incomplete": 1
       },
-      "last visit": "22/03/2021",
+      "last visit": "22/10/2021",
       "No of visits": 24,
       "live": true,
       "payments": {
@@ -1038,6 +1038,2712 @@
         "Card": true,
         "Sms": true
       }
+    },
+    {
+      "user_id": "9363ad11-8107-4826-bff7-7f8d7d312911",
+      "flows": {
+        "developed": 2,
+        "complete": 1,
+        "incomplete": 1
+      },
+      "last visit": "05/06/2021",
+      "No of visits": 14,
+      "live": true,
+      "payments": {
+        "Mpesa": true,
+        "Card": true,
+        "Sms": false
+      }
+    },
+     {
+      "user_id": "9363ad11-8107-4826-bff7-7f8d7d312911",
+      "flows": {
+        "developed": 2,
+        "complete": 1,
+        "incomplete": 1
+      },
+      "last visit": "05/06/2021",
+      "No of visits": 14,
+      "live": true,
+      "payments": {
+        "Mpesa": true,
+        "Card": true,
+        "Sms": false
+      }
+    },
+
+    {
+        "user_id": "c1a7e2b9-d078-4fa9-a57b-c21453777bd4",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 5,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "83160990-fbec-493e-b03e-bd5e2179285f",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 3
+        },
+        "last visit": "27/08/2021",
+        "No of visits": 9,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "d855417e-b5e6-441e-9c06-f788dcd27725",
+        "flows": {
+            "developed": 4,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "28/08/2021",
+        "No of visits": 9,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "6273f2f9-84b8-4bae-82d7-66edc3ca5feb",
+        "flows": {
+            "developed": 4,
+            "complete": 0,
+            "incomplete": 0
+        },
+        "last visit": "26/08/2021",
+        "No of visits": 5,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "7b0d0d85-e24d-4fb8-9a1d-676841c70fc9",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 3
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 1,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "0a898b3b-d683-43a8-bcc2-d77aa0519904",
+        "flows": {
+            "developed": 1,
+            "complete": 1,
+            "incomplete": 4
+        },
+        "last visit": "04/09/2021",
+        "No of visits": 8,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "c99311f7-72d7-4c32-a969-0d56a3900e75",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "18/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "2b5d9b37-5b5a-4ef9-ba5f-63098835ce22",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "11/09/2021",
+        "No of visits": 13,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "db6cd070-224d-4a28-a032-e172b84d66d3",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 10,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "d3ea7ae9-c527-454b-bb56-9713aec91df6",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "07/09/2021",
+        "No of visits": 20,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "1d755115-6c43-41fa-bd0c-d65bb07848b2",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 1
+        },
+        "last visit": "19/09/2021",
+        "No of visits": 6,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "24ed373a-af10-431a-9ed5-0d479da040d6",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "27/08/2021",
+        "No of visits": 17,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "f9506b8f-600c-4541-8480-cf64fe9f2054",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "07/09/2021",
+        "No of visits": 10,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "fe6c735c-aa62-493d-8370-4b651a9bfa2a",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "17/09/2021",
+        "No of visits": 11,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "b35f260d-6c2e-4155-8b37-adb9f4a1b673",
+        "flows": {
+            "developed": 2,
+            "complete": 0,
+            "incomplete": 2
+        },
+        "last visit": "01/09/2021",
+        "No of visits": 6,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "9ce6ff73-b79e-4e3a-9c53-cc220eb5bab7",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "02/09/2021",
+        "No of visits": 4,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "d036e959-7003-4ef3-b2e1-62fa42f31e72",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "27/08/2021",
+        "No of visits": 2,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "c0961c70-9722-415b-9bd2-c5e1abe4c926",
+        "flows": {
+            "developed": 0,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "26/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "30374376-4683-4c49-b90a-35c2b73b445e",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "26/09/2021",
+        "No of visits": 5,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "db3a0cc1-8da3-43e4-b528-20881d08d1d4",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 2
+        },
+        "last visit": "11/09/2021",
+        "No of visits": 9,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "4a8ba3d5-0ef2-42ed-8392-330eecba0126",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "31/08/2021",
+        "No of visits": 9,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "696d93b4-be69-4284-926a-ec82509f1659",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 11,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "75b5ca6b-1992-4fd2-8937-9aef579f5b2f",
+        "flows": {
+            "developed": 0,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 7,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "29d906f6-7b1d-4806-ba56-048a4a7964cc",
+        "flows": {
+            "developed": 0,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "06/09/2021",
+        "No of visits": 13,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "24fe9253-3ef6-4bc8-b653-924b5c8728a3",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 19,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "900e6702-6d78-4e6d-b6ba-88fe14de9999",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 16,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "1ec0d0fe-f14e-4adb-984b-643278a3c1ec",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "22/09/2021",
+        "No of visits": 3,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "897f78db-7774-4c53-85a9-33c575c3a186",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 1
+        },
+        "last visit": "22/09/2021",
+        "No of visits": 4,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "12565830-af7a-4b19-9940-efe0c4bf6a6f",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "e3b34727-ddf8-4cb5-8732-cfa794991bb8",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "01/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "714bcdff-4966-4590-88c0-0ec5e851fe9b",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "24/09/2021",
+        "No of visits": 4,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "8259286e-c05b-45ad-96af-6935e38b72cb",
+        "flows": {
+            "developed": 0,
+            "complete": 3,
+            "incomplete": 2
+        },
+        "last visit": "28/08/2021",
+        "No of visits": 5,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "83f64ea8-f499-4490-b234-36ddf592c088",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "03/09/2021",
+        "No of visits": 7,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "0b367e65-3674-4237-83e5-fd5d7745be00",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 1
+        },
+        "last visit": "10/09/2021",
+        "No of visits": 14,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "6600cd5a-b64c-49ba-aaf4-5d9a7ad66bfb",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "06/09/2021",
+        "No of visits": 19,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "eaa06d7a-088c-477a-9b81-9016ef50b32f",
+        "flows": {
+            "developed": 1,
+            "complete": 0,
+            "incomplete": 3
+        },
+        "last visit": "14/09/2021",
+        "No of visits": 16,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+
+    {
+        "user_id": "c1a7e2b9-d078-4fa9-a57b-c21453777bd4",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 5,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "83160990-fbec-493e-b03e-bd5e2179285f",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 3
+        },
+        "last visit": "27/08/2021",
+        "No of visits": 9,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "d855417e-b5e6-441e-9c06-f788dcd27725",
+        "flows": {
+            "developed": 4,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "28/08/2021",
+        "No of visits": 9,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "6273f2f9-84b8-4bae-82d7-66edc3ca5feb",
+        "flows": {
+            "developed": 4,
+            "complete": 0,
+            "incomplete": 0
+        },
+        "last visit": "26/08/2021",
+        "No of visits": 5,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "7b0d0d85-e24d-4fb8-9a1d-676841c70fc9",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 3
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 1,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "0a898b3b-d683-43a8-bcc2-d77aa0519904",
+        "flows": {
+            "developed": 1,
+            "complete": 1,
+            "incomplete": 4
+        },
+        "last visit": "04/09/2021",
+        "No of visits": 8,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "c99311f7-72d7-4c32-a969-0d56a3900e75",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "18/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "2b5d9b37-5b5a-4ef9-ba5f-63098835ce22",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "11/09/2021",
+        "No of visits": 13,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "db6cd070-224d-4a28-a032-e172b84d66d3",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 10,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "d3ea7ae9-c527-454b-bb56-9713aec91df6",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "07/09/2021",
+        "No of visits": 20,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "1d755115-6c43-41fa-bd0c-d65bb07848b2",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 1
+        },
+        "last visit": "19/09/2021",
+        "No of visits": 6,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "24ed373a-af10-431a-9ed5-0d479da040d6",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "27/08/2021",
+        "No of visits": 17,
+        "live": false,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "f9506b8f-600c-4541-8480-cf64fe9f2054",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "07/09/2021",
+        "No of visits": 10,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "fe6c735c-aa62-493d-8370-4b651a9bfa2a",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "17/09/2021",
+        "No of visits": 11,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "b35f260d-6c2e-4155-8b37-adb9f4a1b673",
+        "flows": {
+            "developed": 2,
+            "complete": 0,
+            "incomplete": 2
+        },
+        "last visit": "01/09/2021",
+        "No of visits": 6,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "9ce6ff73-b79e-4e3a-9c53-cc220eb5bab7",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "02/09/2021",
+        "No of visits": 4,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "d036e959-7003-4ef3-b2e1-62fa42f31e72",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "27/08/2021",
+        "No of visits": 2,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "c0961c70-9722-415b-9bd2-c5e1abe4c926",
+        "flows": {
+            "developed": 0,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "26/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "30374376-4683-4c49-b90a-35c2b73b445e",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "26/09/2021",
+        "No of visits": 5,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "db3a0cc1-8da3-43e4-b528-20881d08d1d4",
+        "flows": {
+            "developed": 3,
+            "complete": 0,
+            "incomplete": 2
+        },
+        "last visit": "11/09/2021",
+        "No of visits": 9,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "4a8ba3d5-0ef2-42ed-8392-330eecba0126",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "31/08/2021",
+        "No of visits": 9,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "696d93b4-be69-4284-926a-ec82509f1659",
+        "flows": {
+            "developed": 2,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 11,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "75b5ca6b-1992-4fd2-8937-9aef579f5b2f",
+        "flows": {
+            "developed": 0,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 7,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "29d906f6-7b1d-4806-ba56-048a4a7964cc",
+        "flows": {
+            "developed": 0,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "06/09/2021",
+        "No of visits": 13,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "24fe9253-3ef6-4bc8-b653-924b5c8728a3",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 3
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 19,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "900e6702-6d78-4e6d-b6ba-88fe14de9999",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "29/08/2021",
+        "No of visits": 16,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "1ec0d0fe-f14e-4adb-984b-643278a3c1ec",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "22/09/2021",
+        "No of visits": 3,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "897f78db-7774-4c53-85a9-33c575c3a186",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 1
+        },
+        "last visit": "22/09/2021",
+        "No of visits": 4,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "12565830-af7a-4b19-9940-efe0c4bf6a6f",
+        "flows": {
+            "developed": 3,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "12/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "e3b34727-ddf8-4cb5-8732-cfa794991bb8",
+        "flows": {
+            "developed": 1,
+            "complete": 2,
+            "incomplete": 2
+        },
+        "last visit": "01/09/2021",
+        "No of visits": 12,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "714bcdff-4966-4590-88c0-0ec5e851fe9b",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "24/09/2021",
+        "No of visits": 4,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "8259286e-c05b-45ad-96af-6935e38b72cb",
+        "flows": {
+            "developed": 0,
+            "complete": 3,
+            "incomplete": 2
+        },
+        "last visit": "28/08/2021",
+        "No of visits": 5,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "83f64ea8-f499-4490-b234-36ddf592c088",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "03/09/2021",
+        "No of visits": 7,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "0b367e65-3674-4237-83e5-fd5d7745be00",
+        "flows": {
+            "developed": 3,
+            "complete": 2,
+            "incomplete": 1
+        },
+        "last visit": "10/09/2021",
+        "No of visits": 14,
+        "live": true,
+        "payments": {
+            "Mpesa": false,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "6600cd5a-b64c-49ba-aaf4-5d9a7ad66bfb",
+        "flows": {
+            "developed": 2,
+            "complete": 2,
+            "incomplete": 4
+        },
+        "last visit": "06/09/2021",
+        "No of visits": 19,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "eaa06d7a-088c-477a-9b81-9016ef50b32f",
+        "flows": {
+            "developed": 1,
+            "complete": 0,
+            "incomplete": 3
+        },
+        "last visit": "14/09/2021",
+        "No of visits": 16,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+       {
+        "user_id": "7937973e-38b2-4e06-bccc-2dd01a2d7b5c",
+        "flows": {
+            "developed": 1,
+            "complete": 1,
+            "incomplete": 2
+        },
+        "last visit": "11/09/2021",
+        "No of visits": 6,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": false
+        }
+    },
+    {
+        "user_id": "b64f55f4-b2d4-48c2-9fa6-e0fb31c73ce4",
+        "flows": {
+            "developed": 0,
+            "complete": 1,
+            "incomplete": 3
+        },
+        "last visit": "15/09/2021",
+        "No of visits": 16,
+        "live": true,
+        "payments": {
+            "Mpesa": true,
+            "Card": true,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "3d9ef27b-30a0-439d-a5de-10516a519631",
+        "flows": {
+            "developed": 1,
+            "complete": 0,
+            "incomplete": 2
+        },
+        "last visit": "24/09/2021",
+        "No of visits": 18,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": true
+        }
+    },
+    {
+        "user_id": "764e04fa-83e8-4b71-b999-6384797af488",
+        "flows": {
+            "developed": 4,
+            "complete": 1,
+            "incomplete": 1
+        },
+        "last visit": "28/08/2021",
+        "No of visits": 15,
+        "live": false,
+        "payments": {
+            "Mpesa": true,
+            "Card": false,
+            "Sms": false
+        }
+    },
+    {
+  "user_id": "04433cd3-5b8b-4c28-aebf-bdae58c15f6f",
+  "flows": {
+    "developed": 2,
+    "complete": 1,
+    "incomplete": 1
+  },
+  "last visit": "15/09/2021",
+  "No of visits": 6,
+  "live": false,
+  "payments": {
+    "Mpesa": true,
+    "Card": true,
+    "Sms": true
+  }
+},
+  {
+    "user_id": "04433cd3-5b8b-4c28-aebf-bdae58c15f6f",
+    "flows": {
+      "developed": 2,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "15/09/2021",
+    "No of visits": 6,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
     }
+  },
+  {
+    "user_id": "e9523b52-532d-4988-aca3-82bbea69ffb2",
+    "flows": {
+      "developed": 4,
+      "complete": 2,
+      "incomplete": 1
+    },
+    "last visit": "27/08/2021",
+    "No of visits": 10,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "e870623b-d4f0-4963-9249-ffe6488b52f6",
+    "flows": {
+      "developed": 1,
+      "complete": 1,
+      "incomplete": 0
+    },
+    "last visit": "29/08/2021",
+    "No of visits": 4,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "7ff80643-10c5-4640-9011-1b7ee9e090c6",
+    "flows": {
+      "developed": 0,
+      "complete": 2,
+      "incomplete": 1
+    },
+    "last visit": "26/08/2021",
+    "No of visits": 19,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "2f96454f-1ec1-42f0-93f6-bdc7b52b54c3",
+    "flows": {
+      "developed": 1,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "06/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "0347aa3a-3020-479a-a874-bb4c3c8c2fce",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "07/09/2021",
+    "No of visits": 5,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "95c423a6-8619-44cc-a748-c6b6a42212e6",
+    "flows": {
+      "developed": 0,
+      "complete": 2,
+      "incomplete": 2
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 9,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "16819e8b-c65c-44ed-a532-cab3c75f8edb",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 6,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "1231aff3-4790-457c-a25d-a9b45ebb6563",
+    "flows": {
+      "developed": 3,
+      "complete": 3,
+      "incomplete": 3
+    },
+    "last visit": "04/09/2021",
+    "No of visits": 11,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "0ac73bc5-2929-40af-9d1b-63d35c9411cf",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "19/09/2021",
+    "No of visits": 2,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "1e658ac4-b9ca-42f6-90cb-9be520eeacb2",
+    "flows": {
+      "developed": 3,
+      "complete": 0,
+      "incomplete": 0
+    },
+    "last visit": "26/09/2021",
+    "No of visits": 10,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "979fb693-b3ab-4c9f-b7f5-382ce643cc49",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "25/08/2021",
+    "No of visits": 2,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "af48fbca-df95-4f03-85e0-57347c8dfa5b",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "09/09/2021",
+    "No of visits": 7,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "239a09ab-4804-460c-a24e-c418930128cf",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 4
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 5,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "d8614281-d608-4c99-abe4-c784b9b0fe49",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 4
+    },
+    "last visit": "26/09/2021",
+    "No of visits": 11,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "8f0b3951-568d-4973-a2ef-0cdaf1236aba",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "31/08/2021",
+    "No of visits": 9,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "872e757e-7c12-40a2-8bd4-b0309a62bf1b",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "16/09/2021",
+    "No of visits": 13,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "f34bb0d2-aa30-4ace-bc27-86ea2e43897d",
+    "flows": {
+      "developed": 2,
+      "complete": 0,
+      "incomplete": 3
+    },
+    "last visit": "12/09/2021",
+    "No of visits": 6,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "537fdcc7-2d2e-4461-879c-8318dd715015",
+    "flows": {
+      "developed": 2,
+      "complete": 0,
+      "incomplete": 0
+    },
+    "last visit": "10/09/2021",
+    "No of visits": 9,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "ee487e7b-5623-4397-9b7d-f66617735ef6",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "16/09/2021",
+    "No of visits": 7,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "85e3351c-8da4-47e5-9ca1-78c714bde0ca",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 2
+    },
+    "last visit": "30/08/2021",
+    "No of visits": 4,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "38c64334-2e5e-4cb3-a5fb-c0e95f5d78f6",
+    "flows": {
+      "developed": 4,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "09/09/2021",
+    "No of visits": 19,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "dccd5516-2793-451e-afe6-877b7083920b",
+    "flows": {
+      "developed": 2,
+      "complete": 0,
+      "incomplete": 3
+    },
+    "last visit": "26/09/2021",
+    "No of visits": 13,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "2371e24d-6110-4e94-a7f1-df50d6e554f7",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 4
+    },
+    "last visit": "31/08/2021",
+    "No of visits": 4,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "da5b834d-373b-48a1-a1e1-c81390be8e41",
+    "flows": {
+      "developed": 1,
+      "complete": 2,
+      "incomplete": 1
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 15,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "38259413-2c86-4258-94d2-095c8c77a695",
+    "flows": {
+      "developed": 2,
+      "complete": 3,
+      "incomplete": 3
+    },
+    "last visit": "18/09/2021",
+    "No of visits": 10,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "23aec037-0833-48ca-b634-8b2e374c63cf",
+    "flows": {
+      "developed": 3,
+      "complete": 0,
+      "incomplete": 2
+    },
+    "last visit": "12/09/2021",
+    "No of visits": 19,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "803db9d7-d421-44e4-b643-bc60a0faaa2b",
+    "flows": {
+      "developed": 1,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "16/09/2021",
+    "No of visits": 11,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "2a60800d-d024-4715-960a-c8ff7491ee22",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "08/09/2021",
+    "No of visits": 7,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "5e3204f2-551d-4516-9d28-0b309cca72ae",
+    "flows": {
+      "developed": 1,
+      "complete": 2,
+      "incomplete": 4
+    },
+    "last visit": "06/09/2021",
+    "No of visits": 15,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "c546d6a4-b042-42fe-b013-0dc68444817f",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 2
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 17,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "1e9b79a6-2a88-4965-b25f-b8607c790b8c",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 7,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "459058ce-6511-4165-8389-289e1a8f8313",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "21/09/2021",
+    "No of visits": 10,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "bcf43816-25d1-457b-a03c-95096931f920",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "25/08/2021",
+    "No of visits": 12,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "407621ef-56c2-4341-9bc8-bafd3e75fdb4",
+    "flows": {
+      "developed": 2,
+      "complete": 3,
+      "incomplete": 4
+    },
+    "last visit": "11/09/2021",
+    "No of visits": 15,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "338c8cda-7f34-490a-a918-786de7678a30",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 4
+    },
+    "last visit": "08/09/2021",
+    "No of visits": 2,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "929c746b-ee1d-454d-b0be-b388e45e90e8",
+    "flows": {
+      "developed": 2,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "06/09/2021",
+    "No of visits": 10,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "018045ba-c5c5-44db-b8e2-2a704e48da2c",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 2
+    },
+    "last visit": "25/09/2021",
+    "No of visits": 16,
+    "live": false,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "075cf8d0-9a48-4c80-beef-c3f93cd2f768",
+    "flows": {
+      "developed": 4,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "19/09/2021",
+    "No of visits": 10,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "06c72891-2f88-44e3-9d85-128a1070ac87",
+    "flows": {
+      "developed": 2,
+      "complete": 1,
+      "incomplete": 0
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 4,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "a7dc76bf-962b-426f-88b6-0a737ea767c5",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "22/09/2021",
+    "No of visits": 12,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "40c08bbe-f45a-4907-bbd4-8bf76cced26a",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "14/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "ef9d86a6-a14c-420a-a3b6-06238a1b0204",
+    "flows": {
+      "developed": 1,
+      "complete": 3,
+      "incomplete": 2
+    },
+    "last visit": "20/09/2021",
+    "No of visits": 12,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "0b1fa108-ce50-4815-bdd4-b1bf70444b2b",
+    "flows": {
+      "developed": 2,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 17,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "a135e57c-3512-4445-9900-4bf1da4a0fdf",
+    "flows": {
+      "developed": 0,
+      "complete": 0,
+      "incomplete": 0
+    },
+    "last visit": "06/09/2021",
+    "No of visits": 17,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "a7dc76bf-962b-426f-88b6-0a737ea767c5",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "22/09/2021",
+    "No of visits": 12,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "40c08bbe-f45a-4907-bbd4-8bf76cced26a",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "14/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "ef9d86a6-a14c-420a-a3b6-06238a1b0204",
+    "flows": {
+      "developed": 1,
+      "complete": 3,
+      "incomplete": 2
+    },
+    "last visit": "20/09/2021",
+    "No of visits": 12,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "0b1fa108-ce50-4815-bdd4-b1bf70444b2b",
+    "flows": {
+      "developed": 2,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 17,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "a135e57c-3512-4445-9900-4bf1da4a0fdf",
+    "flows": {
+      "developed": 0,
+      "complete": 0,
+      "incomplete": 0
+    },
+    "last visit": "06/09/2021",
+    "No of visits": 17,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "c112bf5a-8007-49ba-910b-ee33f41b2609",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 3
+    },
+    "last visit": "30/08/2021",
+    "No of visits": 6,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "93a1521b-d9cd-4903-9923-66a4a8c0925d",
+    "flows": {
+      "developed": 2,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "31/08/2021",
+    "No of visits": 14,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "1042a32a-3ae9-469e-a9de-7836cbf35f04",
+    "flows": {
+      "developed": 1,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "26/08/2021",
+    "No of visits": 2,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "be422d79-87bc-4db6-a4b0-14e2eee76d7c",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "25/09/2021",
+    "No of visits": 3,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "a69bfcff-e348-4421-80b2-2db8a4e9a594",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "03/09/2021",
+    "No of visits": 6,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "e92403f7-58ce-47d5-a55d-cc8f6c3b2480",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "25/09/2021",
+    "No of visits": 11,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "14bdd18a-cd57-401d-9f48-62dae58a7326",
+    "flows": {
+      "developed": 4,
+      "complete": 3,
+      "incomplete": 3
+    },
+    "last visit": "15/09/2021",
+    "No of visits": 3,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "0cac93ed-87c3-4541-81bf-014764ee8605",
+    "flows": {
+      "developed": 3,
+      "complete": 3,
+      "incomplete": 4
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "75dbfd76-289e-4b35-a4ca-85f8009b46d1",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "24/09/2021",
+    "No of visits": 4,
+    "live": false,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "5a553106-94ab-449b-b926-d770a4d8c4aa",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "31/08/2021",
+    "No of visits": 4,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "e92403f7-58ce-47d5-a55d-cc8f6c3b2480",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "25/09/2021",
+    "No of visits": 11,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "14bdd18a-cd57-401d-9f48-62dae58a7326",
+    "flows": {
+      "developed": 4,
+      "complete": 3,
+      "incomplete": 3
+    },
+    "last visit": "15/09/2021",
+    "No of visits": 3,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "0cac93ed-87c3-4541-81bf-014764ee8605",
+    "flows": {
+      "developed": 3,
+      "complete": 3,
+      "incomplete": 4
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "75dbfd76-289e-4b35-a4ca-85f8009b46d1",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "24/09/2021",
+    "No of visits": 4,
+    "live": false,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "5a553106-94ab-449b-b926-d770a4d8c4aa",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "31/08/2021",
+    "No of visits": 4,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "e92403f7-58ce-47d5-a55d-cc8f6c3b2480",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "25/09/2021",
+    "No of visits": 11,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "14bdd18a-cd57-401d-9f48-62dae58a7326",
+    "flows": {
+      "developed": 4,
+      "complete": 3,
+      "incomplete": 3
+    },
+    "last visit": "15/09/2021",
+    "No of visits": 3,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "0cac93ed-87c3-4541-81bf-014764ee8605",
+    "flows": {
+      "developed": 3,
+      "complete": 3,
+      "incomplete": 4
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "75dbfd76-289e-4b35-a4ca-85f8009b46d1",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 3
+    },
+    "last visit": "24/09/2021",
+    "No of visits": 4,
+    "live": false,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "5a553106-94ab-449b-b926-d770a4d8c4aa",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "31/08/2021",
+    "No of visits": 4,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "3c5788e6-5eae-4ae7-b0a8-f95da55851e9",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "23/09/2021",
+    "No of visits": 5,
+    "live": false,
+    "payments": {
+      "Mpesa": false,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "2a7c5551-a41e-4240-90e0-37e2746f08ee",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "04/09/2021",
+    "No of visits": 4,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "706b42c2-1ae4-46ef-a308-e1cef569ff3f",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 4
+    },
+    "last visit": "15/09/2021",
+    "No of visits": 2,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "120c00b6-75b4-451b-aef8-7c0ae5b3ec0b",
+    "flows": {
+      "developed": 3,
+      "complete": 0,
+      "incomplete": 4
+    },
+    "last visit": "16/09/2021",
+    "No of visits": 12,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "c00ad3c3-3265-45f4-a6b3-a508e94d0574",
+    "flows": {
+      "developed": 2,
+      "complete": 0,
+      "incomplete": 2
+    },
+    "last visit": "15/09/2021",
+    "No of visits": 8,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "464a0ef6-42b4-40ec-b732-193846a8f316",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 1
+    },
+    "last visit": "02/09/2021",
+    "No of visits": 8,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "c41f782a-c259-44a0-a13c-a2cb297af2ad",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "29/08/2021",
+    "No of visits": 8,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "fd316ad0-9559-408d-a358-d8200be7e3cc",
+    "flows": {
+      "developed": 4,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "23/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "48aeb148-7554-4492-b55c-732e8c180d60",
+    "flows": {
+      "developed": 4,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "17/09/2021",
+    "No of visits": 12,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "91bdd975-2863-4d2c-a2f3-0359c132dc5c",
+    "flows": {
+      "developed": 0,
+      "complete": 0,
+      "incomplete": 2
+    },
+    "last visit": "16/09/2021",
+    "No of visits": 5,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "464a0ef6-42b4-40ec-b732-193846a8f316",
+    "flows": {
+      "developed": 3,
+      "complete": 2,
+      "incomplete": 1
+    },
+    "last visit": "02/09/2021",
+    "No of visits": 8,
+    "live": false,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "c41f782a-c259-44a0-a13c-a2cb297af2ad",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 1
+    },
+    "last visit": "29/08/2021",
+    "No of visits": 8,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "fd316ad0-9559-408d-a358-d8200be7e3cc",
+    "flows": {
+      "developed": 4,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "23/09/2021",
+    "No of visits": 16,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "48aeb148-7554-4492-b55c-732e8c180d60",
+    "flows": {
+      "developed": 4,
+      "complete": 2,
+      "incomplete": 0
+    },
+    "last visit": "17/09/2021",
+    "No of visits": 12,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "91bdd975-2863-4d2c-a2f3-0359c132dc5c",
+    "flows": {
+      "developed": 0,
+      "complete": 0,
+      "incomplete": 2
+    },
+    "last visit": "16/09/2021",
+    "No of visits": 5,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "ebb051fd-3809-41cc-a434-e62b85e890fb",
+    "flows": {
+      "developed": 2,
+      "complete": 3,
+      "incomplete": 1
+    },
+    "last visit": "26/09/2021",
+    "No of visits": 15,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "c91f8465-717f-4059-b234-d1d5986337c3",
+    "flows": {
+      "developed": 0,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "01/09/2021",
+    "No of visits": 17,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "6d4478e2-759b-47a7-81c5-0db8361fe06f",
+    "flows": {
+      "developed": 2,
+      "complete": 2,
+      "incomplete": 1
+    },
+    "last visit": "25/09/2021",
+    "No of visits": 18,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": true,
+      "Sms": false
+    }
+  },
+  {
+    "user_id": "31326feb-a054-47bf-b4a0-4e4b349218a1",
+    "flows": {
+      "developed": 4,
+      "complete": 1,
+      "incomplete": 0
+    },
+    "last visit": "22/09/2021",
+    "No of visits": 10,
+    "live": true,
+    "payments": {
+      "Mpesa": true,
+      "Card": false,
+      "Sms": true
+    }
+  },
+  {
+    "user_id": "c617a0dc-2a46-4fd6-966f-cf9453a3e714",
+    "flows": {
+      "developed": 3,
+      "complete": 1,
+      "incomplete": 2
+    },
+    "last visit": "06/09/2021",
+    "No of visits": 5,
+    "live": true,
+    "payments": {
+      "Mpesa": false,
+      "Card": false,
+      "Sms": false
+    }
+  }
   ]
 }
